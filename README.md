@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ch3di&count_private=true&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch3di&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ch3di&count_private=true&theme=cobalt&show_icons=true"/>
 </div>
 
 ### How to reach me 📫
 - [Linked In](https://www.linkedin.com/in/chady-w-bouhlel/)
-
+- [Twitter](https://twitter.com/ChadyBouhlel)
